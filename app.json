@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Vegetable Store",
+    "slug": "Vegetable Store",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Vegetable Store"
+}
